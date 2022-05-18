@@ -6,7 +6,7 @@ Learning React via the Frontend Masters React v7 course
 [✓] Introduction <br/>
 [✓] Vanilla React <br/>
 [✓] JS Tools <br/>
-[X] Core React Components <br/>
+[✓] Core React Components <br/>
 [X] React Capabilities <br/>
 [X] Special Case React Tools <br/>
 [X] Wrap-up <br/>
